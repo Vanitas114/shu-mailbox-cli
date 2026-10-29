@@ -9,10 +9,10 @@
 ## 第一次使用
 
 1. 确认电脑已安装 Python 3.10 或更新版本，并且可以访问上海大学邮箱和企业微信。
-2. 打开 PowerShell，输入下面一行并按回车：
+2. 在项目文件夹的上一级目录打开 PowerShell，然后输入：
 
    ```powershell
-   cd "C:\Users\33087\Documents\Codex\2026-10-30\plugin-browser-openai-bundled-x20\outputs\shu-mailbox-cli"
+   cd .\shu-mailbox-cli
    ```
 
 3. 安装运行所需的组件：
