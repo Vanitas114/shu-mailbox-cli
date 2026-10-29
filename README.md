@@ -9,13 +9,8 @@
 ## 第一次使用
 
 1. 确认电脑已安装 Python 3.10 或更新版本，并且可以访问上海大学邮箱和企业微信。
-2. 在项目文件夹的上一级目录打开 PowerShell，然后输入：
 
-   ```powershell
-   cd .\shu-mailbox-cli
-   ```
-
-3. 安装运行所需的组件：
+2. 安装运行所需的组件：
 
    ```powershell
    python -m pip install -r requirements.txt
@@ -23,7 +18,7 @@
 
 ## 开始使用
 
-在同一个窗口中输入：
+在shu-mailbox-cli目录下面运行：
 
 ```powershell
 python shu_mailbox_cli.py
